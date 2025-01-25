@@ -1,3 +1,6 @@
+<?php
+include 'src/fronted/html/index.php';
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -6,10 +9,6 @@
     <title>PetServices</title>
     <link rel="shortcut icon" href="src/images/perro.png">
 </head>
-<body>
-    <?php
-    include 'src/fronted/html/index.php';
-    ?>
-    
+<body>    
 </body>
 </html>
